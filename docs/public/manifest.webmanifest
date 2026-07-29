@@ -1,0 +1,13 @@
+{
+  "name": "ロジ検ノート — ロジスティクス検定 3級・2級 攻略ノート",
+  "short_name": "ロジ検ノート",
+  "start_url": "/rojiken-text/",
+  "scope": "/rojiken-text/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "icons": [
+    { "src": "/rojiken-text/pwa-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/rojiken-text/pwa-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
